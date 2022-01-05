@@ -1,0 +1,11 @@
+npx create-react-app flow-app
+cd flow-app
+npm install @onflow/fcl --save
+
+// package.json: "react-scripts": "^4.0.3"
+// rm package-lock.json / node_modules
+// npm install
+
+npm start
+
+npm install stream-http https-browserify url
